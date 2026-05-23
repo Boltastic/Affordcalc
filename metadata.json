@@ -1,0 +1,6 @@
+{
+  "name": "Can I Afford This?",
+  "description": "A modern AI-powered financial reality check tool that roasts your spending habits and calculates the real work-hour cost of your desires.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
